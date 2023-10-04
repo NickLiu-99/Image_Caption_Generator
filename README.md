@@ -1,5 +1,5 @@
 # Image_Caption_Generator
-Description: 
+## Description: 
 Image caption generator is a cutting-edge application of artificial intelligence that
 has gained significant attention in recent years. It is a system that automatically
 generates textual descriptions or captions for images by analyzing the visual features
